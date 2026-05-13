@@ -1,38 +1,9 @@
-var objc = JSON.parse($response.body);
+// Author Tag Included Below , Dont Try To Sale Or Edit Script Without Permission ⚠️ !
 
-objc = {
-  "result": {
-    "result": "success",
-    "msTime": 1709216800128,
-    "accountCreatedMillis": null,
-    "licenses": [
-      {
-        "benefits": [
-          "RemoveWatermark",
-          "MemberEffects",
-          "ProjectPackageSharing",
-          "FutureMemberFeatures",
-          "AdvancedEasing",
-          "CameraObjects",
-          "LayerParenting",
-          "CloudStorageLowTier"
-        ],
-        "type": "subscription",
-        "store": "apple_app_store",
-        "autoRenewing": true,
-        "orderNumber": "300001752007005",
-        "productId": "alightcreative.motion.1y_t60_1w",
-        "period": "1y",
-        "label": null,
-        "details": null,
-        "expires": 1740926942000,
-        "valid": true,
-        "linkStatus": "linked-current"
-      }
-    ],
-    "warnings": []
-  }
-}
+// Allright Reserved @BiguuDev 2025 - 2026
 
+// Contact Me - TikTok - @biguu.editz__
 
-$done({ body: JSON.stringify(objc) });
+const AUTHOR = "BiguuDev";
+
+var _0x29a103=_0x4ac0;(function(_0x40b2a4,_0x3b9d50){var _0x50ce04=_0x4ac0,_0x551f57=_0x40b2a4();while(!![]){try{var _0x267848=-parseInt(_0x50ce04(0x128))/0x1+-parseInt(_0x50ce04(0x124))/0x2+-parseInt(_0x50ce04(0x135))/0x3*(parseInt(_0x50ce04(0x133))/0x4)+-parseInt(_0x50ce04(0x132))/0x5+parseInt(_0x50ce04(0x12d))/0x6*(parseInt(_0x50ce04(0x131))/0x7)+-parseInt(_0x50ce04(0x136))/0x8+-parseInt(_0x50ce04(0x122))/0x9*(-parseInt(_0x50ce04(0x123))/0xa);if(_0x267848===_0x3b9d50)break;else _0x551f57['push'](_0x551f57['shift']());}catch(_0x2c1ce6){_0x551f57['push'](_0x551f57['shift']());}}}(_0x23eb,0xde0a0));function _0x4ac0(_0x73c82,_0x56cdd7){_0x73c82=_0x73c82-0x122;var _0x23ebaa=_0x23eb();var _0x4ac059=_0x23ebaa[_0x73c82];return _0x4ac059;}function _0x23eb(){var _0x3c834e=['LayerParenting','AdvancedEasing','150114AHZyQh','CloudStorageLowTier','linked-current','success','287HdbRkn','5343620TGvwUR','3592heiBik','stringify','4401EmDpjF','1975864qLzvMx','300001752007005','FutureMemberFeatures','BiguuDev','parse','MemberEffects','18xPqVjz','25928880zmIPrX','1776238vojAZO','CameraObjects','subscription','RemoveWatermark','1780891QZDNrX','apple_app_store','body'];_0x23eb=function(){return _0x3c834e;};return _0x23eb();}if(AUTHOR!==_0x29a103(0x139))$done({});var objc=JSON[_0x29a103(0x13a)]($response[_0x29a103(0x12a)]);objc={'result':{'result':_0x29a103(0x130),'msTime':0x18df5429d80,'accountCreatedMillis':null,'licenses':[{'benefits':[_0x29a103(0x127),_0x29a103(0x13b),'ProjectPackageSharing',_0x29a103(0x138),_0x29a103(0x12c),_0x29a103(0x125),_0x29a103(0x12b),_0x29a103(0x12e)],'type':_0x29a103(0x126),'store':_0x29a103(0x129),'autoRenewing':!![],'orderNumber':_0x29a103(0x137),'productId':'alightcreative.motion.1y_t60_1w','period':'1y','label':null,'details':null,'expires':0x1955754fb30,'valid':!![],'linkStatus':_0x29a103(0x12f)}],'warnings':[]}},$done({'body':JSON[_0x29a103(0x134)](objc)});
